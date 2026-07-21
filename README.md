@@ -1,14 +1,14 @@
 # Medical Insurance Cost Prediction using Multiple Linear Regression
 
-**Author:** Akshat Garg  
+**Author:** C Sai Chandana 
 
-**Registration Number:** 23BCE10641  
+**Registration Number:** 23BHI10006  
 
-**Application Number:** IN26011052
+**Application Number:** IN26010748
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** chitrakavi.23bhi10006@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to develop a Multiple Linear Regression model to estimate medical insurance charges based on individual health and personal features.
